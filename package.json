@@ -43,18 +43,19 @@
     "@stdlib/string-format": "^0.2.1",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.1",
     "@stdlib/utils-noop": "^0.2.1",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
-    "@stdlib/assert-instance-of": "^0.2.0",
-    "@stdlib/assert-is-array": "^0.2.0",
-    "@stdlib/assert-is-browser": "^0.2.0",
-    "@stdlib/fs-read-file": "^0.2.0",
+    "@stdlib/assert-instance-of": "^0.2.1",
+    "@stdlib/assert-is-array": "^0.2.1",
+    "@stdlib/assert-is-browser": "^0.2.1",
+    "@stdlib/fs-read-file": "^0.2.1",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.0"
+    "@stdlib/bench-harness": "^0.2.1"
   },
   "engines": {
     "node": ">=0.10.0",
