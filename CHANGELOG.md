@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-19)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`726caad`](https://github.com/stdlib-js/stdlib/commit/726caad4328c62ab6c8bc93ab88e361c05b8f415) - **bench:** refactor to use string interpolation in `cli` [(#11621)](https://github.com/stdlib-js/stdlib/pull/11621) _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Karan Anand
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-07)
